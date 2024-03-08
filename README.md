@@ -1,3 +1,3 @@
 # SoojalDemoRepo
 This is my demo repository
-Author - Soojal Kumar Lohana
+Author - Soojal Kumar 
